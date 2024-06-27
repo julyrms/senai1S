@@ -1,0 +1,10 @@
+let varia = true;
+let varia2 = false;
+let armazen = varia && varia2;
+console.log(armazen);
+let varia1 = false;
+let variaa2 = true;
+let armazenar = varia1 || variaa2;
+console.log(armazenar);
+console.log(!armazen);
+console.log(!armazenar);

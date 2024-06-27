@@ -1,0 +1,16 @@
+funçao é a nomeação de um bloco de código que pode ser reutilizado
+tem responsabilidade única
+
+function nome_da_funcao (variaveis de parametro){
+parametro: pode ser utilizado dentro da funcao e espera esse valor
+
+
+return ---> devolve as informações ---> retorna informações a sua frente
+define oque vai ser retornado
+encerrar a function
+}
+
+nome_da_funcao (informações convertidas em parâmetros)
+quando invocada aqui em baixo, muda o parametro do codigo
+
+//parametro sem valor: undefined ---> vazio
